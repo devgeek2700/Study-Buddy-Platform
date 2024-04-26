@@ -35,10 +35,6 @@ Despite advancements, there are still gaps in understanding how web-based learni
 ### Mini Project Contribution
 This project contributes significantly to society by democratizing education, breaking down geographical barriers, and providing access to quality learning resources for students regardless of their location. 
 
-## Proposed System
-
-### Architecture/Framework/Block Diagram
-![Block Diagram](block_diagram.png)
 
 ### Algorithm and Process Design
 The web application's technological procedure involves:
@@ -60,9 +56,9 @@ The web application's technological procedure involves:
 - NodeJs
 - Mern Stack
 - ChatEngine
-- ![ChatEngine](https://chatengine.io)
-- ![ZEGOCLOUD](https://www.zegocloud.com)
-- ![Gemini AI API](https://ai.google.dev)
+- [ChatEngine](https://chatengine.io)
+- [ZEGOCLOUD](https://www.zegocloud.com)
+- [Gemini AI API](https://ai.google.dev)
 
 
 ## 🔗 Screenshots
