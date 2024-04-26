@@ -1,0 +1,168 @@
+/* Updated CSS for AuthPage
+.background {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(75deg, rgb(20, 23, 33) 0%, rgb(20, 23, 33) 50%, rgba(20, 23, 33,0.8) 100%);
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  .form-card {
+    width: 50%;
+    max-width: 350px;
+    padding: 0 25%; 
+  }
+  
+  .form-title { 
+    font-size: 42px; 
+    font-family: 'Avenir'; 
+    font-weight: 800; 
+    letter-spacing: 0.5px; 
+    color: #e8e8e8; 
+    padding-bottom: 12px; 
+  }
+  
+  .form-subtitle {
+    font-size: 18px;
+    font-family: 'Avenir';
+    letter-spacing: 0.5px;
+    color: #afafaf;
+    padding-bottom: 24px;
+  }
+  
+  .auth {
+    position: relative;
+    width: 100%; 
+    padding-bottom: 12px;
+  }
+  
+  .auth-label {
+    position: absolute;
+    top: 8px;
+    left: 18px;
+    font-size: 11px;
+    color: rgb(175, 175, 175);
+    font-family: Avenir;
+    width: 100px;
+  }
+  
+  .auth-input {
+    background-color: #3e404b;
+    color: white;
+    font-family: "Avenir";
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    padding: 24px 18px 12px 18px;
+    width: 200px;
+    margin-bottom: 12px;
+  }
+  
+  .auth-button {
+    width: 100%;
+    height: 53px;
+    color: white;
+    background-color: #fa541c;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-family: "Avenir";
+    cursor: pointer;
+    transition: all .44s ease;
+    -webkit-transition: all .44s ease;
+    -moz-transition: all .44s ease;
+  }
+  
+  .auth-button:hover { filter: brightness(145%); }
+   */
+
+
+
+
+
+
+   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+:root {
+	--yellow: #FFBD13;
+	--blue: #4383FF;
+	--blue-d-1: #3278FF;
+	--light: #F5F5F5;
+	--grey: #AAA;
+	--white: #FFF;
+	--shadow: 8px 8px 30px rgba(0,0,0,.05);
+}
+
+body {
+	background: var(--light);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	padding: 1rem;
+}
+
+.wrapper {
+	background: var(--white);
+	padding: 2rem;
+	max-width: 576px;
+	width: 100%;
+	border-radius: .75rem;
+	box-shadow: var(--shadow);
+	text-align: center;
+}
+.wrapper h3 {
+	font-size: 1.5rem;
+	font-weight: 600;
+	margin-bottom: 1rem;
+}
+
+#authchatiput {
+	width: 100%;
+  height: 40px;
+	background: var(--light);
+	padding: 1rem;
+	border-radius: .5rem;
+	border: none;
+	outline: none;
+	resize: none;
+	margin-bottom: .5rem;
+    margin-top: 10px;
+
+}
+.btn-group {
+	display: flex;
+	grid-gap: .5rem;
+	align-items: center;
+}
+.btn-group .btn {
+	padding: .75rem 1rem;
+	border-radius: .5rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-size: .875rem;
+	font-weight: 500;
+    margin-top: 10px;
+    width: 100%;
+}
+.btn-group .btn.submit {
+	background: var(--blue);
+	color: var(--white);
+}
+.btn-group .btn.submit:hover {
+	background: var(--blue-d-1);
+}
+
+
+#gropnametxt{
+  color: #3278FF;
+}
