@@ -62,3 +62,70 @@ The web application's technological procedure involves:
 - ChatEngine
 - ZEGOCLOUD
 - Gemini AI API
+
+
+## 🔗 Screenshots
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o1.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o2.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o3.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o4.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o5.png?raw=true)
+
+## 🔗 Technology Stack
+
+### Frontend:
+- **React Native**: A JavaScript framework for building native mobile applications.
+- **Redux**: A predictable state container for managing application state.
+
+### Backend:
+- **Node.js**: A JavaScript runtime for building server-side applications.
+- **Express.js**: A web application framework for Node.js.
+
+### IDE:
+- **VS Code**: A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS, and Linux.
+
+### Design:
+- **Figma**: A collaborative interface design tool.
+- **Canva**: An online graphic design platform.
+
+### API Testing & Documentation:
+- **Postman**: A collaboration platform for API development.
+
+### Version Control:
+- **Git and GitHub**: Git is a distributed version control system, and GitHub is a cloud-based hosting service for version control using Git.
+
+### Database:
+- **MongoDB**: A cross-platform document-oriented database program.
+
+## Team Members
+
+| S.No. | Name                      | Role                              | GitHub Username      |
+|-------|---------------------------|-----------------------------------|----------------------|
+| 1.    | Pritesh Verma             | Team Leader (Backend Development) | [@Priteshverma123](https://github.com/Priteshverma123) |
+| 2.    | Neha Singh                | Frontend Development              | [@devgeek2700](https://github.com/devgeek2700)  |
+| 3.    | Anaum Sharif              | Backend Development (AI/ML)       | [@ANAUM YASEEN SHARIF](https://github.com/anaumsharif) |
+| 4.    | sharibkhan1               | UI/UX Design                      | [@sharibkhan1](https://github.com/sharibkhan1) |
+| 5.    | Aryan Darade              | Frontend Development              | [@ARYANDARADE](https://github.com/ARYANDARADE)  |
+| 6.    | Raghvendra Devadiga       | Product Designer                  | [@Raghvendra2420](https://github.com/Raghvendra2420) |
+
+
+
+
+## Contributing
+
+Contributions to the Healthcare Consultant App are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding standards and guidelines.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes. See the LICENSE file for more details.
+
+
