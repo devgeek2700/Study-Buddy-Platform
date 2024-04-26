@@ -82,7 +82,7 @@ The web application's technological procedure involves:
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/gruop%20video%20call.png?raw=true)
 
-## Self Assessments
+## Self Assessment
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/evalution%20test.png?raw=true)
 
