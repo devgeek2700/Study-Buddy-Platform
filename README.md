@@ -49,7 +49,7 @@ The web application's technological procedure involves:
 - **Self-assessment Tool:** Gemini API used for topic generation and exam questions.
 - **Sell/Buy Notes Feature:** Auth0 ensures safe registration and transaction.
 
-### Details of Hardware and Software
+## 🔗 Technology Stack
 **Hardware Details:**
 - OS: Windows 10 and 11
 - Processor: i5 and 8th generation
@@ -60,8 +60,9 @@ The web application's technological procedure involves:
 - NodeJs
 - Mern Stack
 - ChatEngine
-- ZEGOCLOUD
-- Gemini AI API
+- ![ChatEngine](https://chatengine.io)
+- ![ZEGOCLOUD](https://www.zegocloud.com)
+- ![Gemini AI API](https://ai.google.dev)
 
 
 ## 🔗 Screenshots
@@ -80,42 +81,17 @@ The web application's technological procedure involves:
 
 ![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o5.png?raw=true)
 
-## 🔗 Technology Stack
 
-### Frontend:
-- **React Native**: A JavaScript framework for building native mobile applications.
-- **Redux**: A predictable state container for managing application state.
 
-### Backend:
-- **Node.js**: A JavaScript runtime for building server-side applications.
-- **Express.js**: A web application framework for Node.js.
 
-### IDE:
-- **VS Code**: A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS, and Linux.
-
-### Design:
-- **Figma**: A collaborative interface design tool.
-- **Canva**: An online graphic design platform.
-
-### API Testing & Documentation:
-- **Postman**: A collaboration platform for API development.
-
-### Version Control:
-- **Git and GitHub**: Git is a distributed version control system, and GitHub is a cloud-based hosting service for version control using Git.
-
-### Database:
-- **MongoDB**: A cross-platform document-oriented database program.
 
 ## Team Members
 
-| S.No. | Name                      | Role                              | GitHub Username      |
-|-------|---------------------------|-----------------------------------|----------------------|
-| 1.    | Pritesh Verma             | Team Leader (Backend Development) | [@Priteshverma123](https://github.com/Priteshverma123) |
-| 2.    | Neha Singh                | Frontend Development              | [@devgeek2700](https://github.com/devgeek2700)  |
-| 3.    | Anaum Sharif              | Backend Development (AI/ML)       | [@ANAUM YASEEN SHARIF](https://github.com/anaumsharif) |
-| 4.    | sharibkhan1               | UI/UX Design                      | [@sharibkhan1](https://github.com/sharibkhan1) |
-| 5.    | Aryan Darade              | Frontend Development              | [@ARYANDARADE](https://github.com/ARYANDARADE)  |
-| 6.    | Raghvendra Devadiga       | Product Designer                  | [@Raghvendra2420](https://github.com/Raghvendra2420) |
+| S.No. | Name          | Role                    | GitHub Username       |
+|-------|---------------|-------------------------|-----------------------|
+| 1.    | Neha Singh    | Full Stack Web Developer| [@devgeek2700](https://github.com/devgeek2700)   |
+| 2.    | Shalaka Kadam | Research and Design    | [@shalaka2603](https://github.com/shalaka2603)  |
+| 3.    | Amulya Shetty | Product Designer        | [@AmulyaShetty11](https://github.com/AmulyaShetty11) |
 
 
 
