@@ -1,7 +1,5 @@
 # Collaborative Study Buddy Platform
 
-# Project Name: Collaborative Learning Web Application
-
 ## Introduction
 This project introduces a multifaceted web application designed to revolutionize remote learning by addressing critical challenges faced by students. The application integrates Collaborative Learning, personalized mentorship, efficient note-taking, and vibrant knowledge sharing, empowering students to excel academically regardless of their circumstances.
 
