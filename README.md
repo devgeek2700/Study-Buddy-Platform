@@ -55,7 +55,6 @@ The web application's technological procedure involves:
 - ReactJs
 - NodeJs
 - Mern Stack
-- ChatEngine
 - [ChatEngine](https://chatengine.io)
 - [ZEGOCLOUD](https://www.zegocloud.com)
 - [Gemini AI API](https://ai.google.dev)
@@ -94,7 +93,7 @@ The web application's technological procedure involves:
 
 ## Contributing
 
-Contributions to the Healthcare Consultant App are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding standards and guidelines.
+Contributions to the Collaborative Study Buddy Platform are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding standards and guidelines.
 
 ## License
 
