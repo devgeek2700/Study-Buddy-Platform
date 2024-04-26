@@ -62,36 +62,36 @@ The web application's technological procedure involves:
 
 
 ## 🔗 Screenshots
-**Homepage**
+## Homepage
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/afterlogin.png?raw=true)
 
-**List group**
+## List group
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/gruop%20list.png?raw=true)
 
-**Group Details**
+ ## Group Details
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/chatbot.png?raw=true)
 
-**Group Chat Feature**
+## Group Chat Feature
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/final%20gruop%20chat.png?raw=true)
 
-**Group Video Call Feature**
+## Group Video Call Feature
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/gruop%20video%20call.png?raw=true)
 
-**Self Assessments**
+## Self Assessments
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/evalution%20test.png?raw=true)
 
-**Take Notes**
+## Take Notes
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/updated%20notes.png?raw=true)
 
 
-**Share Notes using Credit Points**
+## Share Notes using Credit Points
 
 ![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/added%20notes%20and%20points.png?raw=true)
 
