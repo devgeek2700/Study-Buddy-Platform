@@ -54,7 +54,8 @@ The web application's technological procedure involves:
 **Software Details:**
 - ReactJs
 - NodeJs
-- Mern Stack
+- ExpressJs
+- LocalStorage
 - [ChatEngine](https://chatengine.io)
 - [ZEGOCLOUD](https://www.zegocloud.com)
 - [Gemini AI API](https://ai.google.dev)
