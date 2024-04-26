@@ -62,21 +62,38 @@ The web application's technological procedure involves:
 
 
 ## 🔗 Screenshots
+**Homepage**
 
-![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o1.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/afterlogin.png?raw=true)
+
+**List group**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/gruop%20list.png?raw=true)
+
+**Group Details**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/chatbot.png?raw=true)
+
+**Group Chat Feature**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/final%20gruop%20chat.png?raw=true)
+
+**Group Video Call Feature**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/gruop%20video%20call.png?raw=true)
+
+**Self Assessments**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/evalution%20test.png?raw=true)
+
+**Take Notes**
+
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/updated%20notes.png?raw=true)
 
 
-![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o2.png?raw=true)
+**Share Notes using Credit Points**
 
-
-![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o3.png?raw=true)
-
-
-![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o4.png?raw=true)
-
-
-![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o5.png?raw=true)
-
+![App Screenshot](https://github.com/devgeek2700/Study-Buddy-Platform/blob/main/Client/src/Images/Output/added%20notes%20and%20points.png?raw=true)
 
 
 
