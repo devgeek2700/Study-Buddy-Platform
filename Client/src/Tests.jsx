@@ -11,7 +11,7 @@ const {
 } = require("@google/generative-ai");
 
 // Define your API key and model name
-const API_KEY = "AIzaSyDb8BHYwjuA0B6oalqrwwluPuPvOVhJQeA";
+const API_KEY = "SET_PRIVATE_KEY";
 const MODEL_NAME = "gemini-1.0-pro";
 
 function Tests() {
